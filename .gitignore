@@ -7,3 +7,6 @@ Thumbs.db
 .DS_Store
 *.log
 .cache/
+
+# Fotos originales que mandó el cliente (se usan versiones optimizadas en assets/img)
+nuevas/
